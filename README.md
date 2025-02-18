@@ -47,10 +47,10 @@
 <h2 id="-skills"><img src="https://media.giphy.com/media/i00Ho1s3v7BVQ5qBLp/giphy.gif?cid=ecf05e47zyivdq5nf8z16r3tyfthvftotptbk8zgrs4r96fv&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="25px"><b> Let's connect!</b></h2>
 <div align="left">
 <a href="https://linkedin.com/in/adambrams" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  adambrams-%2300acee.svg?color=405DE6&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
+</a>
+<a href="https://youtube.com/@duckkeebs"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" alt="youtube" style="margin-bottom: 5px;">
 </a>
 <img src="https://img.shields.io/badge/Discord: ducky04-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge" style="margin-bottom: 5px;">
-<a href="https://youtube.com/@duckkeebs"><img src="https://img.shields.io/badge/YouTube: Duck Keebs-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" alt="youtube" style="margin-bottom: 5px;">
-</a>
 </div>
 <br>
