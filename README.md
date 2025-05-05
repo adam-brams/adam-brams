@@ -8,7 +8,7 @@
 <h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdkMmtibGxyZmlmODdsYnExb2ZrYjMxNWNweW43ZHY1anFvMGNudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oj25fisQ3zhukVWY96/giphy.gif" width="25px"> <strong>Current Projects</strong></h2></div>
 <p></p>
 <ul>
-<li>Keeblog</li>
+<li>Keeblog</li> (on hold due to finals!)
 <li>Learning PostgreSQL and Rest.js</li>
 </ul>
 <br>
