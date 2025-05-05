@@ -5,10 +5,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Computer+Science+Student+At+UGA;Full-Stack+Developer;Custom+Keyboard+Enthusiast"></a>
 </p>
 <div style={}>
-<h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdkMmtibGxyZmlmODdsYnExb2ZrYjMxNWNweW43ZHY1anFvMGNudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oj25fisQ3zhukVWY96/giphy.gif" width="25px"> <strong>Current Projects</strong></h2></div>
+<h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdkMmtibGxyZmlmODdsYnExb2ZrYjMxNWNweW43ZHY1anFvMGNudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oj25fisQ3zhukVWY96/giphy.gif" width="25px"> <strong>Current Projects (on hold due to finals!)</strong></h2></div>
 <p></p>
 <ul>
-<li>Keeblog</li> (on hold due to finals!)
+<li>Keeblog</li>
 <li>Learning PostgreSQL and Rest.js</li>
 </ul>
 <br>
